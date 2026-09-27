@@ -30,4 +30,4 @@ The program displays the calculated simple interest.
 
 ## Author
 
-Alex Kumar
+SUBITSHA P
